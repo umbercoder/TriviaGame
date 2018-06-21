@@ -6,22 +6,21 @@
 body {
     background-image: url("../images/question.jpeg");
     background-size: cover;
-    color: yellow;
     text-align: center; 
 }
 
 #secondcontainer {
-	background-color: #eb06a6;
+	background-color: #f5f663;
 	width: 1000px;
 	margin: 50px auto;
 	height: 650px;
-    text-align: left;
+    text-align: center;
     font-size: 15px;
 }
 h6 {
 	font-size: 70px !important;
 	letter-spacing: 0.4rem;
-	color: #1c02c7;
+	/* color: #1c02c7; */
 	font-weight: bold;
 	padding-top: 50px;
 } 
@@ -40,36 +39,26 @@ h6 {
 	height: 650px;
     text-align: center;
     font-size: 30px;
+    color: black;
     
 }
 p {
 	font-size: 15px;
 	letter-spacing: 0.4rem;
-	color: #1c02c7;
+	/* color: #1c02c7; */
     padding-top: 50px;
 }
 
 
-.radio {
+input {
 	font-size: 15px;
-	color: #1c02c7;
+	/* color: #1c02c7; */
     padding-top: 50px;
+    text-align: center;
 }
 
 
 complete_bttn {
     text-align: center;
 }
-/* body {
-
-	background-image: url("assets/images/questions.jpeg");
-	background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
  
-
-    background-size: 100% 100%;
-
-	text-align: center;
-
-} */
